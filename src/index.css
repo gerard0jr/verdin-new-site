@@ -1,0 +1,44 @@
+@font-face {
+  font-family: 'Raleway-Medium';
+  src: url('/fonts/Raleway-Medium.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Raleway-Light';
+  src: url('/fonts/Raleway-ExtraLight.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'PlayFair-Regular';
+  src: url('/fonts/PlayfairDisplay-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'PlayFair-Italic';
+  src: url('/fonts/PlayfairDisplay-Italic.ttf') format('truetype');
+  font-style: italic;
+}
+@font-face {
+  font-family: 'PlayFair-Bold';
+  src: url('/fonts/PlayfairDisplay-Bold.ttf') format('truetype');
+}
+
+body {
+  margin: 0;
+  font-family: 'Raleway-Medium', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h2{
+  font-family: 'PlayFair-Regular';
+}
+
+h3{
+  font-family: 'PlayFair-Bold';
+}
+

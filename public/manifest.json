@@ -1,0 +1,8 @@
+{
+  "short_name": "Verdin New York",
+  "name": "Verdin",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
